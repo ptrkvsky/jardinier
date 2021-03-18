@@ -1,15 +1,18 @@
+/* eslint-disable max-len */
+require('dotenv').config()
+
 module.exports = {
   siteMetadata: {
     title: "jardinier",
-    siteUrl: `http://jardinier-paysagiste.org/`,
+    siteUrl: `https://jardinier-paysagiste.org/`,
   },
   plugins: [
     'gatsby-plugin-preact',
     {
       resolve: "gatsby-source-sanity",
       options: {
-        projectId: "e6ut24st",
-        dataset: "production",
+        projectId: process.env.SANITY_PROJECT_ID,
+        dataset: process.env.SANITY_DATASET,
       },
     },
     "gatsby-plugin-emotion",
