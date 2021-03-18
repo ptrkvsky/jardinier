@@ -1,0 +1,38 @@
+{
+  "name": "jardinier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "jardinier",
+  "author": "Johan Petrikovsky",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "gatsby": "^3.0.1",
+    "gatsby-plugin-emotion": "^6.1.0",
+    "gatsby-plugin-gatsby-cloud": "^2.1.0",
+    "gatsby-plugin-image": "^1.1.0",
+    "gatsby-plugin-manifest": "^3.1.0",
+    "gatsby-plugin-preact": "^5.1.0",
+    "gatsby-plugin-react-helmet": "^4.1.0",
+    "gatsby-plugin-sharp": "^3.1.0",
+    "gatsby-plugin-sitemap": "^3.1.0",
+    "gatsby-source-filesystem": "^3.1.0",
+    "gatsby-source-sanity": "^7.0.0",
+    "gatsby-transformer-sharp": "^3.1.0",
+    "preact": "^10.5.13",
+    "preact-render-to-string": "^5.1.16",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0"
+  }
+}
