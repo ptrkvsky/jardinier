@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "jardinier",
+    siteUrl: `http://jardinier-paysagiste.org/`,
   },
   plugins: [
     'gatsby-plugin-preact',
