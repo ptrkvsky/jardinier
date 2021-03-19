@@ -33,3 +33,51 @@ from = "https://www.jardinier-paysagiste.org/pages/nos-activites/page.html"
 to = "https://jardinier-paysagiste.org/"
 status = 301
 force = true
+
+[[redirects]]
+from = "http://jardinier-paysagiste.org/contact/contact.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://jardinier-paysagiste.org/contact/contact.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "http://www.jardinier-paysagiste.org/pages/nos-activites/desinsectisation.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://www.jardinier-paysagiste.org/pages/nos-activites/desinsectisation.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "http://www.jardinier-paysagiste.org/album-photos/ecopiege-chenille-processionnaire-pin.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://www.jardinier-paysagiste.org/album-photos/ecopiege-chenille-processionnaire-pin.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "http://www.jardinier-paysagiste.org/album-photos/ecopiege-chenille-processionnaire-pin.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://www.jardinier-paysagiste.org/album-photos/ecopiege-chenille-processionnaire-pin.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
