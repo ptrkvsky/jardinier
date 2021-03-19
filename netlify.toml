@@ -26,4 +26,10 @@
 from = "http://www.jardinier-paysagiste.org/pages/nos-activites/page.html"
 to = "https://jardinier-paysagiste.org/"
 status = 301
-force = false
+force = true
+
+[[redirects]]
+from = "https://www.jardinier-paysagiste.org/pages/nos-activites/page.html"
+to = "https://jardinier-paysagiste.org/"
+status = 301
+force = true
