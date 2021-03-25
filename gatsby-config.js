@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-require('dotenv').config()
+require("dotenv").config();
 
 module.exports = {
   siteMetadata: {
@@ -7,7 +7,7 @@ module.exports = {
     siteUrl: `https://jardinier-paysagiste.org/`,
   },
   plugins: [
-    'gatsby-plugin-preact',
+    // 'gatsby-plugin-preact',
     {
       resolve: "gatsby-source-sanity",
       options: {
